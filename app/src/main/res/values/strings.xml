@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Patriotic</string>
+
+
+    <string name="patriot">TODO</string>
+    <string name="my">TOD</string>
+    <string name="textview">IYIOLA OLUWASEUN</string>
+    <string name="textvie">Codebeast</string>
+    <string name="textvi">holuwaseun50@gmail.com</string>
+    <string name="lockicon">lockicon</string>
+    <string name="callicon">callicon</string>
+
+    <string name="LIKES">video games</string>
+    <string name="LIKES2">Reading</string>
+    <string name="LIKES3">drawing </string>
+    <string name="Dislike1">Gossip</string>
+    <string name="Dislike2">Hypocrisy</string>
+    <string name="dislike3">Laziness</string>
+    <string name="hobbies">HOBBIES</string>
+    <string name="hobby1">Programming</string>
+    <string name="hobby2">Cooking</string>
+    <string name="hobby3">Driving</string>
+    <string name="LKES">MY LIKES</string>
+    <string name="dis">MY DISLIKES</string>
+    <string name="mypicture">mypicture</string>
+    <string name="nacosslogo">nacosslogo</string>
+    <string name="homelogo">homelogo</string>
+</resources>
